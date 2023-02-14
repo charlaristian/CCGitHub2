@@ -10,7 +10,8 @@
     <form id="form1" runat="server">
         <div>
             <% CC_GitHub_Basic_App.Class1 tp = new CC_GitHub_Basic_App.Class1(); %>
-
+            Hello World
+            branch test
             <%=tp.Name %>
         </div>
     </form>
